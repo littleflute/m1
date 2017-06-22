@@ -1,0 +1,12 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Don't Do Drugs Just Take Some.mp3";		
+f[2]	= "02 Beats Knockin.mp3";		
+f[3]	= "03 Take U There.mp3";		
+f[4]	= "04 Febreze.mp3";		
+f[5]	= "05 To U.mp3";		
+f[6]	= "06 Jungle Bae.mp3";		
+f[7]	= "07 Mind.mp3";		
+f[8]	= "08 Holla Out.mp3";		
+f[9]	= "09 Where Are U Now.mp3";		
+f[10]	= "10 Take U There [Missy Elliott Remix].mp3";		
